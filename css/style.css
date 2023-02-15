@@ -1,6 +1,6 @@
 body{ 
-    width: (1920*3)px;
-    height: 1080px;
+    height: (1920*3)px;
+    width: 1080px;
     display: grid;
     grid-template-areas: 
     'sid log log'
